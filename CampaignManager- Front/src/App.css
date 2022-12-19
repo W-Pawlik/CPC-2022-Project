@@ -1,0 +1,29 @@
+#main_container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  padding: 0px 150px 0px 150px;
+}
+
+#light {
+  background-color: wheat;
+  color: red;
+}
+
+#dark {
+  background-color: #404241;
+  color: red;
+}
+
+.background {
+  height: 100vh;
+}
+
+.button {
+  background-color: red;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-top: 10px;
+  color: black;
+}

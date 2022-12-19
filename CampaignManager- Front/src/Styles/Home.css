@@ -1,0 +1,66 @@
+.header {
+    font-weight: bold;
+    text-shadow: 2px 2px darkblue;
+    font-size: 70px;
+    margin-bottom: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 5px;
+    width: 100%;
+}
+
+.text1 {
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+#form_container {
+    border: double 8px #0c0c0c99;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+#submit_button{
+    border-radius: 10px;
+    background-color: rgb(145, 153, 153);
+}
+
+.input_title {
+    background-color: rgb(209, 209, 209);
+    overflow-wrap: break-all;
+    hyphens: manual;
+    border-radius: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.input_description {
+    background-color: rgb(209, 209, 209);
+    border-radius: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#delete_button {
+    margin: 5px;
+    border-radius: 10px;
+    background-color: rgb(145, 153, 153);
+}
+
+#delete_button:hover {
+    background-color: rgb(114, 119, 119);
+}
+
+#submit_button:hover {
+    background-color: rgb(114, 119, 119);
+}
+

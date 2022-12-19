@@ -1,0 +1,13 @@
+
+.death_saving_throws {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 5px;
+}
+
+.checkBox {
+    margin: 3px;
+}

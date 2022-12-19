@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Blacksmith",
+        "description": "Character1 goes to the blacksmith"
+    },
+    {
+        "id": 2,
+        "title": "Rest",
+        "description": "Character2 rest in barrack"
+    },
+    {
+        "id": 3,
+        "title": "Trade",
+        "description": "Character trade items"
+    }
+]
+

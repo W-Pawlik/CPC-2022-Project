@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Player1",
+        "hp": 20
+    },
+    {
+        "id": 2,
+        "name": "Player2",
+        "hp": 15
+    },
+    {
+        "id": 3,
+        "name": "Player3",
+        "hp": 26
+    },
+    {
+        "id": 4,
+        "name": "Player4",
+        "hp": 17
+    }
+]

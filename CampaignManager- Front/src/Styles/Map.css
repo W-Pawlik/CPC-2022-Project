@@ -1,0 +1,73 @@
+
+#map {
+    width: 39vw;
+}
+
+#border_container {
+    border: double 8px rgb(182, 42, 17);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.zoom_button {
+    border: double 8px rgb(182, 42, 17);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: #404241;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color:rgb(218, 12, 12);
+    text-shadow: 2px 2px rgb(94, 91, 91);
+}
+
+.zoomIn:hover {
+    animation-name: textzoomIn;
+    animation-duration: 1s;
+    animation-iteration-count: 2;
+    animation-direction: alternate;
+}
+
+.zoomOut:hover {
+    animation-name: textzoomOut;
+    animation-duration: 1s;
+    animation-iteration-count: 2;
+    animation-direction: alternate;
+}
+
+.resetZoom:hover {
+    animation-name: zoomFlip;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+}
+
+@keyframes textzoomIn {
+    0%{
+        font-size: 25px;
+    }
+    100%
+    {
+        font-size: 50px;
+    }
+}
+
+@keyframes textzoomOut {
+    0%{
+        font-size: 25px;
+    }
+    100%
+    {
+        font-size: 15px;
+    }
+}
+
+@keyframes zoomFlip {
+    50%{
+        transform: rotateY(180deg);
+    }
+    to{
+        transform: rotateY(360deg);
+    }
+}
