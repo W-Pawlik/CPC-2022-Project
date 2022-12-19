@@ -3665,11 +3665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wojtek\\Desktop\\Nauka\\CPC-2022\\campaignManager\\campaignManager\\campaignManager.csproj",
+      "projectUniqueName": "C:\\Users\\Wojtek\\Desktop\\github\\CPC-2022-Project\\CampaignManager-Backend\\campaignManager\\campaignManager\\campaignManager.csproj",
       "projectName": "campaignManager",
-      "projectPath": "C:\\Users\\Wojtek\\Desktop\\Nauka\\CPC-2022\\campaignManager\\campaignManager\\campaignManager.csproj",
+      "projectPath": "C:\\Users\\Wojtek\\Desktop\\github\\CPC-2022-Project\\CampaignManager-Backend\\campaignManager\\campaignManager\\campaignManager.csproj",
       "packagesPath": "C:\\Users\\Wojtek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wojtek\\Desktop\\Nauka\\CPC-2022\\campaignManager\\campaignManager\\obj\\",
+      "outputPath": "C:\\Users\\Wojtek\\Desktop\\github\\CPC-2022-Project\\CampaignManager-Backend\\campaignManager\\campaignManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

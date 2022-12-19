@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D/ztec0VQIvcKjgTHJ6Ax666QO5Y8AsCjrAuou6JcDRnOMTJAe10k1P//yxzdBs8I0G259ZzrjL6aZnWAlWvTA==",
+  "dgSpecHash": "H0ZFK0DhDF8iz2KzsSmmRbtOA6rf1kdE+C2kjeBYGNHTIr7s+dSlcsEY+UjkC2gGtTpvovH1s0d9Q9PyKo4cgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wojtek\\Desktop\\Nauka\\CPC-2022\\campaignManager\\campaignManager\\campaignManager.csproj",
+  "projectFilePath": "C:\\Users\\Wojtek\\Desktop\\github\\CPC-2022-Project\\CampaignManager-Backend\\campaignManager\\campaignManager\\campaignManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wojtek\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Wojtek\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
